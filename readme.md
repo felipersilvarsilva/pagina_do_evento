@@ -1,4 +1,4 @@
-# Tecnologias
+# Tecnologias e pacotes
 
 + back end
 - graphql library(api)
@@ -9,7 +9,5 @@
 - apollo
 - tailwindcss
   - recomendado colocar a estenxão tailwindcss
-
-  rseat.in/lab-graphcms
-
-  import { ApolloClient, InMemoryCache } from "@apollo/client";
+- phosphor-react
+- date-fns
